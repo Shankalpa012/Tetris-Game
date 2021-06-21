@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background:#202028;
+    color:#fff;
+    font-family:'Courier New', Courier, monospace;
+    font-size:1.55em;
+    text-align:center;
+}
+
+canvas{
+    border:solid .2em  #fff;
+    height: 90vh;
+}
